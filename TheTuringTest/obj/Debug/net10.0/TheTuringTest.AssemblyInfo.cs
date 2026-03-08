@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheTuringTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e13a64ec6b38ddf5b16d1fe17e65967c3afe358d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a453392f9db48e5e2e11447be26d1d8077bf7a91")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheTuringTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheTuringTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
